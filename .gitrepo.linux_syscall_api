@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:Starry-OS/linux_syscall_api.git
+	branch = main
+	commit = dd051a95983b1a0b5b3131d2ef7840d79f1088e8
+	parent: 9d54455dd97894beb3b8c6e0863f6391c7c38b28
+	method = merge
+	cmdver = 0.4.9

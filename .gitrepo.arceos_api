@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:Starry-OS/arceos_api.git
+	branch = main
+	commit = fc77e8d99632a8d89fd10481a74186891f2fa1f2
+	parent: 9d54455dd97894beb3b8c6e0863f6391c7c38b28
+	method = merge
+	cmdver = 0.4.9
