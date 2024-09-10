@@ -4,9 +4,9 @@
 ; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
 ;
 [subrepo]
-	remote = git@github.com:Starry-OS/axmem.git
+	remote = git@github.com:Starry-OS/axnet.git
 	branch = main
-	commit = 2e66a8ad1a4f14f629d2a07e67abcf21f5216012
+	commit = da7b71fad8a32c4265c0b23d56bf6f5589e84000
 	parent: 315abcb97e18e2bfed57db60f29842f8dc82b16b
 	method = merge
 	cmdver = 0.4.9

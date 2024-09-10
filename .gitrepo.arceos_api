@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/arceos_api.git
 	branch = main
 	commit = fc77e8d99632a8d89fd10481a74186891f2fa1f2
-	parent: e8e76960e1a29f4c15ca3e8d723b5be4ccb9b0f7
+	parent: 315abcb97e18e2bfed57db60f29842f8dc82b16b
 	method = merge
 	cmdver = 0.4.9
