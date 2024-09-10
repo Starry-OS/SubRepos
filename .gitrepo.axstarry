@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axstarry.git
 	branch = main
 	commit = c7b536629a18b4531bac334b39d119d61ead5362
-	parent: 315abcb97e18e2bfed57db60f29842f8dc82b16b
+	parent: d6e39ac3d2cdd7f5cfccb72ebc9ceec618660c0a
 	method = merge
 	cmdver = 0.4.9

@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axtask.git
 	branch = main
 	commit = 5c7f4e485a4ab08d51b3118828e3ee1552d54dc6
-	parent: 315abcb97e18e2bfed57db60f29842f8dc82b16b
+	parent: d6e39ac3d2cdd7f5cfccb72ebc9ceec618660c0a
 	method = merge
 	cmdver = 0.4.9
