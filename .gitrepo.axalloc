@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axalloc.git
 	branch = main
 	commit = da0de65d739b91fb422d33477d10cee473436c42
-	parent: d6e39ac3d2cdd7f5cfccb72ebc9ceec618660c0a
+	parent: 8c66ae2ac975ef6b4906a787e5dbbe43a5671cf3
 	method = merge
 	cmdver = 0.4.9

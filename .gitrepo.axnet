@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axnet.git
 	branch = main
 	commit = da7b71fad8a32c4265c0b23d56bf6f5589e84000
-	parent: d6e39ac3d2cdd7f5cfccb72ebc9ceec618660c0a
+	parent: 8c66ae2ac975ef6b4906a787e5dbbe43a5671cf3
 	method = merge
 	cmdver = 0.4.9
