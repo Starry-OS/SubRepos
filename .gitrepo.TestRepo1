@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:TestForStarry/TestRepo1.git
+	branch = main
+	commit = f06c4e5e8c058a541d893f54b8c5145e32883c1c
+	parent = 98c40dd6f96b68a9f42f72bbda321cf8e460d684
+	method = merge
+	cmdver = 0.4.9
