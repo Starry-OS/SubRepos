@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axdriver.git
 	branch = main
 	commit = 9a968311691d3439166d7d2719aa7b98964f57c6
-	parent: 8c66ae2ac975ef6b4906a787e5dbbe43a5671cf3
+	parent = 60912536e8216fa639fe3eb9c762c77546303fce
 	method = merge
 	cmdver = 0.4.9

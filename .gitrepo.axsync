@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axsync.git
 	branch = main
 	commit = 70651a7c8e918e6f6aced3014acfd16f209aa4c0
-	parent: 8c66ae2ac975ef6b4906a787e5dbbe43a5671cf3
+	parent = 60912536e8216fa639fe3eb9c762c77546303fce
 	method = merge
 	cmdver = 0.4.9

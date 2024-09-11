@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axmem.git
 	branch = main
 	commit = 2e66a8ad1a4f14f629d2a07e67abcf21f5216012
-	parent: 8c66ae2ac975ef6b4906a787e5dbbe43a5671cf3
+	parent = 60912536e8216fa639fe3eb9c762c77546303fce
 	method = merge
 	cmdver = 0.4.9
