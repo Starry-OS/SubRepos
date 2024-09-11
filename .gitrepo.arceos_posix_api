@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/arceos_posix_api.git
 	branch = main
 	commit = 0ef12d062570badfad6b9832d2c886c2c24d6bcb
-	parent = 60912536e8216fa639fe3eb9c762c77546303fce
+	parent = 8f2853652a01cd802948b3009fb2bc9d95abd412
 	method = merge
 	cmdver = 0.4.9

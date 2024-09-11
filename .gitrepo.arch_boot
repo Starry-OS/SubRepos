@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/arch_boot.git
 	branch = main
 	commit = 03cb86283f3bbc3d85c88e37dfc561fe80d24210
-	parent = 60912536e8216fa639fe3eb9c762c77546303fce
+	parent = 8f2853652a01cd802948b3009fb2bc9d95abd412
 	method = merge
 	cmdver = 0.4.9

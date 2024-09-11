@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axsignal.git
 	branch = main
 	commit = 1cc27325ed3ce8477d10ed0c22af027ce85ca6d3
-	parent = 60912536e8216fa639fe3eb9c762c77546303fce
+	parent = 8f2853652a01cd802948b3009fb2bc9d95abd412
 	method = merge
 	cmdver = 0.4.9

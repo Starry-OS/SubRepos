@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axfs.git
 	branch = main
 	commit = 2dc56372a7ac95fb19d80361924484615e26bfbb
-	parent = 60912536e8216fa639fe3eb9c762c77546303fce
+	parent = 8f2853652a01cd802948b3009fb2bc9d95abd412
 	method = merge
 	cmdver = 0.4.9

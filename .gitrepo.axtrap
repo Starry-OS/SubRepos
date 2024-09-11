@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axtrap.git
 	branch = main
 	commit = f2529e64355db2c4df9561fd6603bf9eb9325cc4
-	parent = 60912536e8216fa639fe3eb9c762c77546303fce
+	parent = 8f2853652a01cd802948b3009fb2bc9d95abd412
 	method = merge
 	cmdver = 0.4.9

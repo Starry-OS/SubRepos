@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/linux_syscall_api.git
 	branch = main
 	commit = dd051a95983b1a0b5b3131d2ef7840d79f1088e8
-	parent = 60912536e8216fa639fe3eb9c762c77546303fce
+	parent = 8f2853652a01cd802948b3009fb2bc9d95abd412
 	method = merge
 	cmdver = 0.4.9

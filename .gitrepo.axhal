@@ -7,6 +7,6 @@
 	remote = git@github.com:Starry-OS/axhal.git
 	branch = main
 	commit = 769caa8b8749b324a1370a8da11c0e6a7597eedf
-	parent = 60912536e8216fa639fe3eb9c762c77546303fce
+	parent = 8f2853652a01cd802948b3009fb2bc9d95abd412
 	method = merge
 	cmdver = 0.4.9
